@@ -244,7 +244,7 @@ npm run dev
 
 - Website: https://pooliq.fun
 - X: https://x.com/PooliqFun
-- GitHub: https://github.com/pooliq
+- GitHub: https://github.com/PooliqFun/Pooliq-cryptool
 
 ---
 
